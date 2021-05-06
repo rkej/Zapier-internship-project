@@ -24,7 +24,7 @@
     "moment": "^2.22.2",
     "node-env-file": "^0.1.8",
     "request": "^2.85.0",
-    "underscore": "^1.9.1",
+    "underscore": "^1.12.1",
     "valid-url": "^1.0.9",
     "valid_url": "^1.1.1",
     "validity-url": "^1.0.0",
