@@ -21,7 +21,7 @@
     "dotenv": "^5.0.0",
     "form-data": "^2.3.2",
     "hashmap": "^2.3.0",
-    "moment": "^2.22.2",
+    "moment": "^2.29.2",
     "node-env-file": "^0.1.8",
     "request": "^2.85.0",
     "underscore": "^1.9.1",
